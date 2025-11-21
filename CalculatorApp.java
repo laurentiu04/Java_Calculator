@@ -265,7 +265,7 @@ class Calculator extends JFrame implements ActionListener {
     }
 }
 
-public class ex3_lab7 {
+public class CalculatorApp {
     public static void main(String[] args) {
         new Calculator();
     }
